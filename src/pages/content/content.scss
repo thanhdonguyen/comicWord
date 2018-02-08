@@ -1,0 +1,40 @@
+page-content {
+	.scroll-content{
+		width: 100%;
+		.c-title01{
+			text-align: center;
+			color: #555;
+			font-weight: bold;
+			font-size: 30px;
+			padding-top: 20px;
+		}
+		p{
+			text-align: justify;
+		}
+		div{
+			width: 100%;
+			&:last-child{
+				p{
+					text-align: center;
+					font-style: italic;
+				}
+			}
+		}
+	}
+	ion-content{
+		.progress-outer{
+			width: 100%;
+			height: 2px;
+			// background-color: red;
+		}
+		.progress-inner{
+			min-width: 0%;
+			max-width: 100%;
+			height: 2px;
+			white-space: nowrap;
+			overflow: hidden;
+			background-color:rgb(117, 112, 112);
+			width: 0%;
+		}
+	}
+}

@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-navbar>
+  	<button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Novel</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+	<ion-list>
+    <ion-item *ngFor="let storyNames of genreOfStory" (click)="gotoContent(storyNames)">
+      <ion-thumbnail item-start>
+        <img src="{{ storyNames.thumnail }}">
+      </ion-thumbnail>
+      <h2>{{ storyNames.name }}</h2>
+      <p>{{ storyNames.author }}</p>
+      <!-- <button ion-button clear item-end>View</button> -->
+    </ion-item>
+  </ion-list>
+</ion-content>
+

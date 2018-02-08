@@ -1,0 +1,29 @@
+<!--
+  Generated template for the ContentPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{storyNames.name}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content >
+  <div *ngIf="progressBar" class="progress-outer">
+    <div class="progress-inner">
+    </div>
+  </div>
+  <div *ngIf="yes" padding>
+    <div *ngFor="let item of storyNames.content">
+      <h2 class="c-title01" *ngIf="item.title != ''">{{item.title}}</h2>
+      <p *ngIf="item.cnt1 != ''">{{item.cnt1}}</p>
+      <img *ngIf="item.img != ''" src="{{item.img}}" alt="">
+    </div>
+  </div>
+
+</ion-content>

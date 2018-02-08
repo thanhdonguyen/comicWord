@@ -1,0 +1,31 @@
+<!--
+  Generated template for the ComicsChapterPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>{{storyNames.name}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content>
+  <button *ngIf=(isFavorite) ion-button outline icon-left (click)="removeFavorite(storyNames.id)">
+    <ion-icon name="heart"></ion-icon>
+    Add favorite
+  </button>
+  <button *ngIf=(noneFavorite) ion-button outline icon-left (click)="addtoFavorite(storyNames)">
+    <ion-icon name="heart-outline"></ion-icon>
+    Add favorite
+  </button>
+  <ion-list>
+    <ion-item *ngFor="let storyName of storyNames.list" (click)="gotoChapterContent(storyName)">
+      <ion-icon name="star-outline" item-start></ion-icon>
+      <h2>{{ storyName.name }}</h2>
+    </ion-item>
+  </ion-list>
+</ion-content>

@@ -1,0 +1,706 @@
+[
+    {
+        "id": 1,
+        "name": "Wuthering Heights",
+        "thumnail" : "assets/imgs/novel_1_2.jpg",
+        "author" : "Diem My - 2017",
+        "content": [
+            {
+                "title": "Chapter I",
+                "cnt1" : "",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "1801.—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with.  This is certainly a beautiful country!  In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.  A perfect misanthropist’s heaven: and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us.  A capital fellow!  He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Mr. Heathcliff?’ I said.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "A nod was the answer.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Mr. Lockwood, your new tenant, sir.  I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts—’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Thrushcross Grange is my own, sir,’ he interrupted, wincing.  ‘I should not allow any one to inconvenience me, if I could hinder it—walk in!’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "The ‘walk in’ was uttered with closed teeth, and expressed the sentiment, ‘Go to the Deuce:’ even the gate over which he leant manifested no sympathising movement to the words; and I think that circumstance determined me to accept the invitation: I felt interested in a man who seemed more exaggeratedly reserved than myself.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "When he saw my horse’s breast fairly pushing the barrier, he did put out his hand to unchain it, and then sullenly preceded me up the causeway, calling, as we entered the court,—‘Joseph, take Mr. Lockwood’s horse; and bring up some wine.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Here we have the whole establishment of domestics, I suppose,’ was the reflection suggested by this compound order.  ‘No wonder the grass grows up between the flags, and cattle are the only hedge-cutters.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Joseph was an elderly, nay, an old man: very old, perhaps, though hale and sinewy.  ‘The Lord help us!’ he soliloquised in an undertone of peevish displeasure, while relieving me of my horse: looking, meantime, in my face so sourly that I charitably conjectured he must have need of divine aid to digest his dinner, and his pious ejaculation had no reference to my unexpected advent.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Wuthering Heights is the name of Mr. Heathcliff’s dwelling.  ‘Wuthering’ being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather.  Pure, bracing ventilation they must have up there at all times, indeed: one may guess the power of the north wind blowing over the edge, by the excessive slant of a few stunted firs at the end of the house; and by a range of gaunt thorns all stretching their limbs one way, as if craving alms of the sun.  Happily, the architect had foresight to build it strong: the narrow windows are deeply set in the wall, and the corners defended with large jutting stones.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Before passing the threshold, I paused to admire a quantity of grotesque carving lavished over the front, and especially about the principal door; above which, among a wilderness of crumbling griffins and shameless little boys, I detected the date ‘1500,’ and the name ‘Hareton Earnshaw.’  I would have made a few comments, and requested a short history of the place from the surly owner; but his attitude at the door appeared to demand my speedy entrance, or complete departure, and I had no desire to aggravate his impatience previous to inspecting the penetralium.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "One stop brought us into the family sitting-room, without any introductory lobby or passage: they call it here ‘the house’ pre-eminently.  It includes kitchen and parlour, generally; but I believe at Wuthering Heights the kitchen is forced to retreat altogether into another quarter: at least I distinguished a chatter of tongues, and a clatter of culinary utensils, deep within; and I observed no signs of roasting, boiling, or baking, about the huge fireplace; nor any glitter of copper saucepans and tin cullenders on the walls.  One end, indeed, reflected splendidly both light and heat from ranks of immense pewter dishes, interspersed with silver jugs and tankards, towering row after row, on a vast oak dresser, to the very roof.  The latter had never been under-drawn: its entire anatomy lay bare to an inquiring eye, except where a frame of wood laden with oatcakes and clusters of legs of beef, mutton, and ham, concealed it.  Above the chimney were sundry villainous old guns, and a couple of horse-pistols: and, by way of ornament, three gaudily-painted canisters disposed along its ledge.  The floor was of smooth, white stone; the chairs, high-backed, primitive structures, painted green: one or two heavy black ones lurking in the shade.  In an arch under the dresser reposed a huge, liver-coloured bitch pointer, surrounded by a swarm of squealing puppies; and other dogs haunted other recesses.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "The apartment and furniture would have been nothing extraordinary as belonging to a homely, northern farmer, with a stubborn countenance, and stalwart limbs set out to advantage in knee-breeches and gaiters.  Such an individual seated in his arm-chair, his mug of ale frothing on the round table before him, is to be seen in any circuit of five or six miles among these hills, if you go at the right time after dinner.  But Mr. Heathcliff forms a singular contrast to his abode and style of living.  He is a dark-skinned gipsy in aspect, in dress and manners a gentleman: that is, as much a gentleman as many a country squire: rather slovenly, perhaps, yet not looking amiss with his negligence, because he has an erect and handsome figure; and rather morose.  Possibly, some people might suspect him of a degree of under-bred pride; I have a sympathetic chord within that tells me it is nothing of the sort: I know, by instinct, his reserve springs from an aversion to showy displays of feeling—to manifestations of mutual kindliness.  He’ll love and hate equally under cover, and esteem it a species of impertinence to be loved or hated again.  No, I’m running on too fast: I bestow my own attributes over-liberally on him.  Mr. Heathcliff may have entirely dissimilar reasons for keeping his hand out of the way when he meets a would-be acquaintance, to those which actuate me.  Let me hope my constitution is almost peculiar: my dear mother used to say I should never have a comfortable home; and only last summer I proved myself perfectly unworthy of one.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "While enjoying a month of fine weather at the sea-coast, I was thrown into the company of a most fascinating creature: a real goddess in my eyes, as long as she took no notice of me.  I ‘never told my love’ vocally; still, if looks have language, the merest idiot might have guessed I was over head and ears: she understood me at last, and looked a return—the sweetest of all imaginable looks.  And what did I do?  I confess it with shame—shrunk icily into myself, like a snail; at every glance retired colder and farther; till finally the poor innocent was led to doubt her own senses, and, overwhelmed with confusion at her supposed mistake, persuaded her mamma to decamp.  By this curious turn of disposition I have gained the reputation of deliberate heartlessness; how undeserved, I alone can appreciate.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I took a seat at the end of the hearthstone opposite that towards which my landlord advanced, and filled up an interval of silence by attempting to caress the canine mother, who had left her nursery, and was sneaking wolfishly to the back of my legs, her lip curled up, and her white teeth watering for a snatch.  My caress provoked a long, guttural gnarl.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘You’d better let the dog alone,’ growled Mr. Heathcliff in unison, checking fiercer demonstrations with a punch of his foot.  ‘She’s not accustomed to be spoiled—not kept for a pet.’  Then, striding to a side door, he shouted again, ‘Joseph!’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Joseph mumbled indistinctly in the depths of the cellar, but gave no intimation of ascending; so his master dived down to him, leaving me vis-à-vis the ruffianly bitch and a pair of grim shaggy sheep-dogs, who shared with her a jealous guardianship over all my movements.  Not anxious to come in contact with their fangs, I sat still; but, imagining they would scarcely understand tacit insults, I unfortunately indulged in winking and making faces at the trio, and some turn of my physiognomy so irritated madam, that she suddenly broke into a fury and leapt on my knees.  I flung her back, and hastened to interpose the table between us.  This proceeding aroused the whole hive: half-a-dozen four-footed fiends, of various sizes and ages, issued from hidden dens to the common centre.  I felt my heels and coat-laps peculiar subjects of assault; and parrying off the larger combatants as effectually as I could with the poker, I was constrained to demand, aloud, assistance from some of the household in re-establishing peace.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Heathcliff and his man climbed the cellar steps with vexatious phlegm: I don’t think they moved one second faster than usual, though the hearth was an absolute tempest of worrying and yelping.  Happily, an inhabitant of the kitchen made more despatch: a lusty dame, with tucked-up gown, bare arms, and fire-flushed cheeks, rushed into the midst of us flourishing a frying-pan: and used that weapon, and her tongue, to such purpose, that the storm subsided magically, and she only remained, heaving like a sea after a high wind, when her master entered on the scene.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘What the devil is the matter?’ he asked, eyeing me in a manner that I could ill endure, after this inhospitable treatment.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘What the devil, indeed!’ I muttered.  ‘The herd of possessed swine could have had no worse spirits in them than those animals of yours, sir.  You might as well leave a stranger with a brood of tigers!’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘They won’t meddle with persons who touch nothing,’ he remarked, putting the bottle before me, and restoring the displaced table.  ‘The dogs do right to be vigilant.  Take a glass of wine?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘No, thank you.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Not bitten, are you?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘If I had been, I would have set my signet on the biter.’  Heathcliff’s countenance relaxed into a grin.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Come, come,’ he said, ‘you are flurried, Mr. Lockwood.  Here, take a little wine.  Guests are so exceedingly rare in this house that I and my dogs, I am willing to own, hardly know how to receive them.  Your health, sir?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I bowed and returned the pledge; beginning to perceive that it would be foolish to sit sulking for the misbehaviour of a pack of curs; besides, I felt loth to yield the fellow further amusement at my expense; since his humour took that turn.  He—probably swayed by prudential consideration of the folly of offending a good tenant—relaxed a little in the laconic style of chipping off his pronouns and auxiliary verbs, and introduced what he supposed would be a subject of interest to me,—a discourse on the advantages and disadvantages of my present place of retirement.  I found him very intelligent on the topics we touched; and before I went home, I was encouraged so far as to volunteer another visit to-morrow.  He evidently wished no repetition of my intrusion.  I shall go, notwithstanding.  It is astonishing how sociable I feel myself compared with him.",
+                "img": ""
+            },
+            {
+                "title": "CHAPTER II",
+                "cnt1" : "",
+                "img": "assets/imgs/novel_1_1.jpg"
+            },
+            {
+                "title": "",
+                "cnt1" : "Yesterday afternoon set in misty and cold.  I had half a mind to spend it by my study fire, instead of wading through heath and mud to Wuthering Heights.  On coming up from dinner, however, (N.B.—I dine between twelve and one o’clock; the housekeeper, a matronly lady, taken as a fixture along with the house, could not, or would not, comprehend my request that I might be served at five)—on mounting the stairs with this lazy intention, and stepping into the room, I saw a servant-girl on her knees surrounded by brushes and coal-scuttles, and raising an infernal dust as she extinguished the flames with heaps of cinders.  This spectacle drove me back immediately; I took my hat, and, after a four-miles’ walk, arrived at Heathcliff’s garden-gate just in time to escape the first feathery flakes of a snow-shower.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "On that bleak hill-top the earth was hard with a black frost, and the air made me shiver through every limb.  Being unable to remove the chain, I jumped over, and, running up the flagged causeway bordered with straggling gooseberry-bushes, knocked vainly for admittance, till my knuckles tingled and the dogs howled.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Wretched inmates!’ I ejaculated, mentally, ‘you deserve perpetual isolation from your species for your churlish inhospitality.  At least, I would not keep my doors barred in the day-time.  I don’t care—I will get in!’  So resolved, I grasped the latch and shook it vehemently.  Vinegar-faced Joseph projected his head from a round window of the barn.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘What are ye for?’ he shouted.  ‘T’ maister’s down i’ t’ fowld.  Go round by th’ end o’ t’ laith, if ye went to spake to him.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Is there nobody inside to open the door?’ I hallooed, responsively.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘There’s nobbut t’ missis; and shoo’ll not oppen ’t an ye mak’ yer flaysome dins till neeght.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Why?  Cannot you tell her whom I am, eh, Joseph?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Nor-ne me!  I’ll hae no hend wi’t,’ muttered the head, vanishing.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "The snow began to drive thickly.  I seized the handle to essay another trial; when a young man without coat, and shouldering a pitchfork, appeared in the yard behind.  He hailed me to follow him, and, after marching through a wash-house, and a paved area containing a coal-shed, pump, and pigeon-cot, we at length arrived in the huge, warm, cheerful apartment where I was formerly received.  It glowed delightfully in the radiance of an immense fire, compounded of coal, peat, and wood; and near the table, laid for a plentiful evening meal, I was pleased to observe the ‘missis,’ an individual whose existence I had never previously suspected.  I bowed and waited, thinking she would bid me take a seat.  She looked at me, leaning back in her chair, and remained motionless and mute.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Rough weather!’ I remarked.  ‘I’m afraid, Mrs. Heathcliff, the door must bear the consequence of your servants’ leisure attendance: I had hard work to make them hear me.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "She never opened her mouth.  I stared—she stared also: at any rate, she kept her eyes on me in a cool, regardless manner, exceedingly embarrassing and disagreeable.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Sit down,’ said the young man, gruffly.  ‘He’ll be in soon.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I obeyed; and hemmed, and called the villain Juno, who deigned, at this second interview, to move the extreme tip of her tail, in token of owning my acquaintance.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘A beautiful animal!’ I commenced again.  ‘Do you intend parting with the little ones, madam?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘They are not mine,’ said the amiable hostess, more repellingly than Heathcliff himself could have replied.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Ah, your favourites are among these?’ I continued, turning to an obscure cushion full of something like cats.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘A strange choice of favourites!’ she observed scornfully.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Unluckily, it was a heap of dead rabbits.  I hemmed once more, and drew closer to the hearth, repeating my comment on the wildness of the evening.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘You should not have come out,’ she said, rising and reaching from the chimney-piece two of the painted canisters.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Her position before was sheltered from the light; now, I had a distinct view of her whole figure and countenance.  She was slender, and apparently scarcely past girlhood: an admirable form, and the most exquisite little face that I have ever had the pleasure of beholding; small features, very fair; flaxen ringlets, or rather golden, hanging loose on her delicate neck; and eyes, had they been agreeable in expression, that would have been irresistible: fortunately for my susceptible heart, the only sentiment they evinced hovered between scorn and a kind of desperation, singularly unnatural to be detected there.  The canisters were almost out of her reach; I made a motion to aid her; she turned upon me as a miser might turn if any one attempted to assist him in counting his gold.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘I don’t want your help,’ she snapped; ‘I can get them for myself.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘I beg your pardon!’ I hastened to reply.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Were you asked to tea?’ she demanded, tying an apron over her neat black frock, and standing with a spoonful of the leaf poised over the pot.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘I shall be glad to have a cup,’ I answered.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Were you asked?’ she repeated.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘No,’ I said, half smiling.  ‘You are the proper person to ask me.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "She flung the tea back, spoon and all, and resumed her chair in a pet; her forehead corrugated, and her red under-lip pushed out, like a child’s ready to cry.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Meanwhile, the young man had slung on to his person a decidedly shabby upper garment, and, erecting himself before the blaze, looked down on me from the corner of his eyes, for all the world as if there were some mortal feud unavenged between us.  I began to doubt whether he were a servant or not: his dress and speech were both rude, entirely devoid of the superiority observable in Mr. and Mrs. Heathcliff; his thick brown curls were rough and uncultivated, his whiskers encroached bearishly over his cheeks, and his hands were embrowned like those of a common labourer: still his bearing was free, almost haughty, and he showed none of a domestic’s assiduity in attending on the lady of the house.  In the absence of clear proofs of his condition, I deemed it best to abstain from noticing his curious conduct; and, five minutes afterwards, the entrance of Heathcliff relieved me, in some measure, from my uncomfortable state.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘You see, sir, I am come, according to promise!’ I exclaimed, assuming the cheerful; ‘and I fear I shall be weather-bound for half an hour, if you can afford me shelter during that space.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Half an hour?’ he said, shaking the white flakes from his clothes; ‘I wonder you should select the thick of a snow-storm to ramble about in.  Do you know that you run a risk of being lost in the marshes?  People familiar with these moors often miss their road on such evenings; and I can tell you there is no chance of a change at present.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘Perhaps I can get a guide among your lads, and he might stay at the Grange till morning—could you spare me one?’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "‘No, I could not.’",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "To be continue....",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pride and Prejudice",
+        "thumnail" : "assets/imgs/novel_2_1.jpg",
+        "author" : "Jane Austen",
+        "content": [
+            {
+                "title": "Chapter I",
+                "cnt1" : "",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'My dear Mr. Bennet', said his lady to him one day, 'have you heard that Netherfield Park is let at last?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Bennet replied that he had not.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'But it is,'' returned she; 'for Mrs. Long has just been here, and she told me all about it.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Bennet made no answer.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Do you not want to know who has taken it?' cried his wife impatiently.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'YOU want to tell me, and I have no objection to hearing it.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "This was invitation enough.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Why, my dear, you must know, Mrs. Long says that Netherfield is taken by a young man of large fortune from the north of England; that he came down on Monday in a chaise and four to see the place, and was so much delighted with it, that he agreed with Mr. Morris immediately; that he is to take possession before Michaelmas, and some of his servants are to be in the house by the end of next week.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'What is his name?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Bingley.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Is he married or single?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Oh! Single, my dear, to be sure! A single man of large fortune; four or five thousand a year. What a fine thing for our girls!'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'How so? How can it affect them?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'My dear Mr. Bennet,' replied his wife, 'how can you be so tiresome! You must know that I am thinking of his marrying one of them.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Is that his design in settling here?",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Design! Nonsense, how can you talk so! But it is very likely that he MAY fall in love with one of them, and therefore you must visit him as soon as he comes",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I see no occasion for that. You and the girls may go, or you may send them by themselves, which perhaps will be still better, for as you are as handsome as any of them, Mr. Bingley may like you the best of the party.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "My dear, you flatter me. I certainly HAVE had my share of beauty, but I do not pretend to be anything extraordinary now. When a woman has five grown-up daughters, she ought to give over thinking of her own beauty.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "In such cases, a woman has not often much beauty to think of.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "But, my dear, you must indeed go and see Mr. Bingley when he comes into the neighbourhood.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "It is more than I engage for, I assure you.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "But consider your daughters. Only think what an establishment it would be for one of them. Sir William and Lady Lucas are determined to go, merely on that account, for in general, you know, they visit no newcomers. Indeed you must go, for it will be impossible for US to visit him if you do not.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "You are over-scrupulous, surely. I dare say Mr. Bingley will be very glad to see you; and I will send a few lines by you to assure him of my hearty consent to his marrying whichever he chooses of the girls; though I must throw in a good word for my little Lizzy.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I desire you will do no such thing. Lizzy is not a bit better than the others; and I am sure she is not half so handsome as Jane, nor half so good-humoured as Lydia. But you are always giving HER the preference.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "They have none of them much to recommend them,' replied he; 'they are all silly and ignorant like other girls; but Lizzy has something more of quickness than her sisters.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Bennet, how CAN you abuse your own children in such a way? You take delight in vexing me. You have no compassion for my poor nerves.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "You mistake me, my dear. I have a high respect for your nerves. They are my old friends. I have heard you mention them with consideration these last twenty years at least.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Bennet was so odd a mixture of quick parts, sarcastic humour, reserve, and caprice, that the experience of three-and-twenty years had been insufficient to make his wife understand his character. HER mind was less difficult to develop. She was a woman of mean understanding, little information, and uncertain temper. When she was discontented, she fancied herself nervous. The business of her life was to get her daughters married; its solace was visiting and news.",
+                "img": ""
+            },
+            {
+                "title": "Chapter II",
+                "cnt1" : "",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mr. Bennet was among the earliest of those who waited on Mr. Bingley. He had always intended to visit him, though to the last always assuring his wife that he should not go; and till the evening after the visit was paid she had no knowledge of it. It was then disclosed in the following manner. Observing his second daughter employed in trimming a hat, he suddenly addressed her with:",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I hope Mr. Bingley will like it, Lizzy.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "We are not in a way to know WHAT Mr. Bingley likes,'' said her mother resentfully, 'since we are not to visit.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "But you forget, mamma,' said Elizabeth, 'that we shall meet him at the assemblies, and that Mrs. Long promised to introduce him.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I do not believe Mrs. Long will do any such thing. She has two nieces of her own. She is a selfish, hypocritical woman, and I have no opinion of her.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "No more have I,' said Mr. Bennet; 'and I am glad to find that you do not depend on her serving you.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Mrs. Bennet deigned not to make any reply, but, unable to contain herself, began scolding one of her daughters.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Don't keep coughing so, Kitty, for Heaven's sake! Have a little compassion on my nerves. You tear them to pieces.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Kitty has no discretion in her coughs,' said her father; 'she times them ill.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "I do not cough for my own amusement,' replied Kitty fretfully. 'When is your next ball to be, Lizzy?",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "To-morrow fortnight.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Aye, so it is,' cried her mother, 'and Mrs. Long does not come back till the day before; so it will be impossible for her to introduce him, for she will not know him herself.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Then, my dear, you may have the advantage of your friend, and introduce Mr. Bingley to HER.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "To be continue...",
+                "img": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Gone With The Wind",
+        "thumnail" : "assets/imgs/novel_3_1.jpg",
+        "author" : "Margaret Mitchell - 1900-1949",
+        "content": [
+            {
+                "title": "Chapter I",
+                "cnt1" : "",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Scarlett O'Hara was not beautiful, but men seldom realized it when caught by her charm as the Tarleton twins were.  In her face were too sharply blended the delicate features of her mother, a Coast aristocrat of French descent, and the heavy ones of her florid Irish father.  But it was an arresting face, pointed of chin, square of jaw.  Her eyes were pale green without a touch of hazel, starred with bristly black lashes and slightly tilted at the ends. Above them, her thick black brows slanted upward, cutting a startling oblique line in her magnolia-white skin--that skin so prized by Southern women and so carefully guarded with bonnets, veils and mittens against hot Georgia suns. ",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Seated with Stuart and Brent Tarleton in the cool shade of the porch of Tara, her father's plantation, that bright April afternoon of 1861, she made a pretty picture.  Her new green flowered-muslin dress spread its twelve yards of billowing material over her hoops and exactly matched the flat-heeled green morocco slippers her father had recently brought her from Atlanta. The dress set off to perfection the seventeen-inch waist, the smallest in three counties, and the tightly fitting basque showed breasts well matured for her sixteen years.  But for all the modesty of her spreading skirts, the demureness of hair netted smoothly into a chignon and the quietness of small white hands folded in her lap, her true self was poorly concealed.  The green eyes in the carefully sweet face were turbulent, willful, lusty with life, distinctly at variance with her decorous demeanor. Her manners had been imposed upon her by her mother's gentle admonitions and the sterner discipline of her mammy; her eyes were her own.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "On either side of her, the twins lounged easily in their chairs, squinting at the sunlight through tall mint-garnished glasses as they laughed and talked, their long legs, booted to the knee and thick with saddle muscles, crossed negligently.  Nineteen years old, six feet two inches tall, long of bone and hard of muscle, with sunburned faces and deep auburn hair, their eyes merry and arrogant, their bodies clothed in identical blue coats and mustard-colored breeches, they were as much alike as two bolls of cotton.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Outside, the late afternoon sun slanted down in the yard, throwing into gleaming brightness the dogwood trees that were solid masses of white blossoms against the background of new green.  The twins' horses were hitched in the driveway, big animals, red as their masters' hair; and around the horses' legs quarreled the pack of lean, nervous possum hounds that accompanied Stuart and Brent wherever they went.  A little aloof, as became an aristocrat, lay a black-spotted carriage dog, muzzle on paws, patiently waiting for the boys to go home to supper.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Between the hounds and the horses and the twins there was a kinship deeper than that of their constant companionship.  They were all healthy, thoughtless young animals, sleek, graceful, high-spirited, the boys as mettlesome as the horses they rode, mettlesome and dangerous but, withal, sweet-tempered to those who knew how to handle them.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Although born to the ease of plantation life, waited on hand and foot since infancy, the faces of the three on the porch were neither slack nor soft.  They had the vigor and alertness of country people who have spent all their lives in the open and troubled their heads very little with dull things in books.  Life in the north Georgia county of Clayton was still new and, according to the standards of Augusta, Savannah and Charleston, a little crude.  The more sedate and older sections of the South looked down their noses at the up-country Georgians, but here in north Georgia, a lack of the niceties of classical education carried no shame, provided a man was smart in the things that mattered.  And raising good cotton, riding well, shooting straight, dancing lightly, squiring the ladies with elegance and carrying one's liquor like a gentleman were the things that mattered.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "In these accomplishments the twins excelled, and they were equally outstanding in their notorious inability to learn anything contained between the covers of books.  Their family had more money, more horses, more slaves than any one else in the County, but the boys had less grammar than most of their poor Cracker neighbors.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "It was for this precise reason that Stuart and Brent were idling on the porch of Tara this April afternoon.  They had just been expelled from the University of Georgia, the fourth university that had thrown them out in two years; and their older brothers, Tom and Boyd, had come home with them, because they refused to remain at an institution where the twins were not welcome.  Stuart and Brent considered their latest expulsion a fine joke, and Scarlett, who had not willingly opened a book since leaving the Fayetteville Female Academy the year before, thought it just as amusing as they did. ",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'I know you two don't care about being expelled, or Tom either,' she said.  'But what about Boyd?  He's kind of set on getting an education, and you two have pulled him out of the University of Virginia and Alabama and South Carolina and now Georgia.  He'll never get finished at this rate.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Oh, he can read law in Judge Parmalee's office over in Fayetteville,' answered Brent carelessly.  'Besides, it don't matter much.  We'd have had to come home before the term was out anyway.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Why?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'The war, goose!  The war's going to start any day, and you don't suppose any of us would stay in college with a war going on, do you?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'You know there isn't going to be any war,' said Scarlett, bored. 'It's all just talk.  Why, Ashley Wilkes and his father told Pa just last week that our commissioners in Washington would come to--to--an--amicable agreement with Mr. Lincoln about the Confederacy.  And anyway, the Yankees are too scared of us to fight.  There won't be any war, and I'm tired of hearing about it.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Not going to be any war!' cried the twins indignantly, as though they had been defrauded. '",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Why, honey, of course there's going to be a war,' said Stuart. 'The Yankees may be scared of us, but after the way General Beauregard shelled them out of Fort Sumter day before yesterday, they'll have to fight or stand branded as cowards before the whole world.  Why, the Confederacy--'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Scarlett made a mouth of bored impatience.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'If you say 'war' just once more, I'll go in the house and shut the door.  I've never gotten so tired of any one word in my life as 'war,' unless it's 'secession.'  Pa talks war morning, noon and night, and all the gentlemen who come to see him shout about Fort Sumter and States' Rights and Abe Lincoln till I get so bored I could scream!  And that's all the boys talk about, too, that and their old Troop.  There hasn't been any fun at any party this spring because the boys can't talk about anything else.  I'm mighty glad Georgia waited till after Christmas before it seceded or it would have ruined the Christmas parties, too.  If you say 'war' again, I'll go in the house.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "She meant what she said, for she could never long endure any conversation of which she was not the chief subject.  But she smiled when she spoke, consciously deepening her dimple and fluttering her bristly black lashes as swiftly as butterflies' wings.  The boys were enchanted, as she had intended them to be, and they hastened to apologize for boring her.  They thought none the less of her for her lack of interest.  Indeed, they thought more.  War was men's business, not ladies', and they took her attitude as evidence of her femininity.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Having maneuvered them away from the boring subject of war, she went back with interest to their immediate situation.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'What did your mother say about you two being expelled again?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "The boys looked uncomfortable, recalling their mother's conduct three months ago when they had come home, by request, from the University of Virginia.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Well,' said Stuart, 'she hasn't had a chance to say anything yet. Tom and us left home early this morning before she got up, and Tom's laying out over at the Fontaines' while we came over here.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Didn't she say anything when you got home last night?'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'We were in luck last night.  Just before we got home that new stallion Ma got in Kentucky last month was brought in, and the place was in a stew.  The big brute--he's a grand horse, Scarlett; you must tell your pa to come over and see him right away--he'd already bitten a hunk out of his groom on the way down here and he'd trampled two of Ma's darkies who met the train at Jonesboro. And just before we got home, he'd about kicked the stable down and half-killed Strawberry, Ma's old stallion.  When we got home, Ma was out in the stable with a sackful of sugar smoothing him down and doing it mighty well, too.  The darkies were hanging from the rafters, popeyed, they were so scared, but Ma was talking to the horse like he was folks and he was eating out of her hand.  There ain't nobody like Ma with a horse.  And when she saw us she said: 'In Heaven's name, what are you four doing home again?  You're worse than the plagues of Egypt!'  And then the horse began snorting and rearing and she said:  'Get out of here!  Can't you see he's nervous, the big darling?  I'll tend to you four in the morning!'  So we went to bed, and this morning we got away before she could catch us and left Boyd to handle her.' ",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Do you suppose she'll hit Boyd?'  Scarlett, like the rest of the County, could never get used to the way small Mrs. Tarleton bullied her grown sons and laid her riding crop on their backs if the occasion seemed to warrant it.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "Beatrice Tarleton was a busy woman, having on her hands not only a large cotton plantation, a hundred negroes and eight children, but the largest horse-breeding farm in the state as well.  She was hot-tempered and easily plagued by the frequent scrapes of her four sons, and while no one was permitted to whip a horse or a slave, she felt that a lick now and then didn't do the boys any harm.",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "'Of course she won't hit Boyd.  She never did beat Boyd much because he's the oldest and besides he's the runt of the litter,' said Stuart, proud of his six feet two.  'That's why we left him at home to explain things to her.  God'lmighty, Ma ought to stop licking us!  We're nineteen and Tom's twenty-one, and she acts like we're six years old.'",
+                "img": ""
+            },
+            {
+                "title": "",
+                "cnt1" : "To be continue...",
+                "img": ""
+            }
+        ]
+    }
+]

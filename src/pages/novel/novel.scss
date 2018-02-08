@@ -1,0 +1,26 @@
+page-novel {
+	.item{
+		width: 100%;
+		padding-left: 10px;
+		ion-thumbnail{
+			width: 40% !important;
+		    margin: 15px 0px 15px 0 !important;
+			img{
+				width: 100% !important;
+				height: 100px;
+			}
+		}
+		.item-inner{
+			width: 60%;
+			padding-left: 15px;
+			display: block;
+		}
+	}
+	ion-label{
+	    white-space: normal;
+	    h2{
+	    	max-height: 57px;
+	    	overflow: hidden;
+	    }
+	}
+}

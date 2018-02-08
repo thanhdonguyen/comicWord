@@ -1,0 +1,29 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>List Comics</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="progressBar" class="progress-outer">
+    <div class="progress-inner">
+    </div>
+  </div>
+  <ion-refresher (ionRefresh)="doRefresh($event);">
+    <ion-refresher-content>
+    </ion-refresher-content>
+  </ion-refresher>
+  <ion-list *ngIf="yes">
+    <ion-item *ngFor="let storyNames of genreOfStory" (click)="gotoChapter(storyNames)">
+      <ion-thumbnail item-start>
+        <img src="{{ storyNames.thumnail }}">
+      </ion-thumbnail>
+      <h2>{{ storyNames.name }}</h2>
+      <p>{{ storyNames.author }}</p>
+      <!-- <button ion-button clear item-end>View</button> -->
+    </ion-item>
+  </ion-list>
+</ion-content>

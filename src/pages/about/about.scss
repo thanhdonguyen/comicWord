@@ -1,0 +1,25 @@
+page-about {
+	.c-title{
+		font-weight: bold;
+		font-size: 30px;
+		color: #444;
+		text-align: center;
+		margin: 20px 0;
+	}
+	.c-inf-about{
+		color: #777;
+		padding-left: 16px;
+		padding-right: 16px;
+		margin: 8px 0;
+		span{
+			color: #689f38;
+			font-style: italic;
+		}
+	}
+	.c-copyright{
+		color: #000;
+		font-style: italic;
+		text-align: center;
+		margin-top: 15px;
+	}
+}
